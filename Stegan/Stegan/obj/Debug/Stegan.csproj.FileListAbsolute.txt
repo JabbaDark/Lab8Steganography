@@ -1,0 +1,9 @@
+C:\Users\Mike\source\repos\Stegan\Stegan\obj\Debug\Stegan.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\Stegan\Stegan\obj\Debug\Stegan.Form1.resources
+C:\Users\Mike\source\repos\Stegan\Stegan\obj\Debug\Stegan.Properties.Resources.resources
+C:\Users\Mike\source\repos\Stegan\Stegan\obj\Debug\Stegan.csproj.GenerateResource.cache
+C:\Users\Mike\source\repos\Stegan\Stegan\bin\Debug\Stegan.exe.config
+C:\Users\Mike\source\repos\Stegan\Stegan\bin\Debug\Stegan.exe
+C:\Users\Mike\source\repos\Stegan\Stegan\bin\Debug\Stegan.pdb
+C:\Users\Mike\source\repos\Stegan\Stegan\obj\Debug\Stegan.exe
+C:\Users\Mike\source\repos\Stegan\Stegan\obj\Debug\Stegan.pdb
